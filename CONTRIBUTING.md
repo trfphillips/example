@@ -6,5 +6,4 @@ We encourage contribution to the project
 
 Please send a GitHub Pull Request to us with a clear list of what you've done (read more about pull requests).
 
-#Test
-Example of pulling being performed
+
